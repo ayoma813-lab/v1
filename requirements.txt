@@ -27,3 +27,5 @@ python-telegram-bot>=20.7   # 👈 هذا هو المطلوب
 flask>=2.0.0
 
 pyTelegramBotAPI>=4.0.0
+
+protobuf-decoder>=0.1.0
